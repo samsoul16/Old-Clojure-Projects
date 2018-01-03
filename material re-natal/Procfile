@@ -1,0 +1,1 @@
+web: java $JVM_OPTS -cp target/uberjar/material.jar clojure.main -m material.core
