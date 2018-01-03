@@ -1,0 +1,1 @@
+web: java $JVM_OPTS -cp target/uberjar/todo-reframe.jar clojure.main -m todo-reframe.core
